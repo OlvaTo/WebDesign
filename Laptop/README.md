@@ -1,5 +1,5 @@
 <html>
   <h1>Web Desain Jual Laptop</h1>
-  <p>Desain web yang kubuat dari rancangan html dan css untuk menampilkan jual laptop acer seperti web acer resmi </p>
+  <p>Desain Web Yang Kubuat Dari Rancangan Html Dan Css Dalam Membuat Tampilan Dari Jual Laptop Acer Layaknya Seperti Web Resmi Dari Acer </p>
   
 </html>
